@@ -1,0 +1,6 @@
+# MUKU
+telethon
+cryptg
+asyncio
+telegraph
+requests
