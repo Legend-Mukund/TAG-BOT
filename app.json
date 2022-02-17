@@ -1,0 +1,22 @@
+{
+  "logo":"https://telegra.ph/file/485bb1d24ac022c0f8845.jpg",
+  "name": "╚»𝐀𝐋𝐈𝐄𝐍-𝐓𝐀𝐆-𝐑𝐎𝐁𝐎«╝",
+  "description": "I CAN TAG ALL MEMBERS OF THE GROUP.",
+  "env": {
+    "TOKEN": {
+      "description": "Enter bot token Get It From @botfather..!!!",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
