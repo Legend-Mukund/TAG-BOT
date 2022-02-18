@@ -4,7 +4,7 @@
 
 [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Legend-Mukund/TAG-BOT)
 
-<p align = "center"><a herf = "https://t.me/ALIEN_X_SUPPORT" alt = "ALIEN"><img src = "https://telegra.ph/file/485bb1d24ac022c0f8845.jpg" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/ALIEN_X_SUPPORT" alt = "ALIEN"><img src = "https://telegra.ph/file/485bb1d24ac022c0f8845.jpg" width = "500"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
@@ -32,10 +32,17 @@
     
 </details>
 
+<details>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+> ᴛʜᴇʀᴇ ᴀʀᴇ ᴛʜʀᴇᴇ ᴠᴀʀꜱ ᴀɴᴅ ᴀʟʟ ᴀʀᴇ ᴄᴏᴍᴘᴜʟꜱᴏʀʏ
 
     
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛᴀɢ ᴀʟʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/Legend-Mukund/TAG-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+    
+</details>
   
 
 # Owner And Credit
