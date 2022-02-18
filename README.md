@@ -19,25 +19,43 @@
 </a>
 
 
-## DEPLOY TO HEROKU
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Legend-Mukund/TAG-BOT)
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
-### 🚀 Deploy to railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Legend-Mukund/TAG-BOT)
+<details>
+<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
+<br>
+    
+- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://my.telegram.org/auth)
+- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
+- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʜᴀꜱʜ](https://my.telegram.org/auth)
+    
+</details>
 
 
-## SUPPORT
--[𝐀𝐋𝐈𝐄𝐍 𝐗 𝐒𝐔𝐏𝐏𝐎𝐑𝐓](https://t.me/ALIEN_X_SUPPORT)
--[❥ⲘⴑⲔⴑⲚⲆ⏤➖⃟🥀𓆩𝗫.⃝⃡𝐈‌‌ﮩ٨ـﮩﮩ٨ـ](https://t.me/LEGEND_MUKUND)
+    
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Legend-Mukund/TAG-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+  
 
-## REQUIREMENTS
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `BOT_TOKEN`  =  Make A Bot From [𝐁𝐎𝐓𝐅𝐀𝐓𝐇𝐄𝐑](https://t.me/botfather) and paste it's token.
-- `Dont Forget To Turn On Inline And Off Group Privacy`
-
-## PLEASE GIVE STAR
+# Owner And Credit
 
 
-## SPECIAL THANKS TO `MUKUND AND WOLVRINE ❤`
+<details>
+<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
+<br>
+
+## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
+
+- [❥ⲘⴑⲔⴑⲚⲆ⏤➖⃟🥀𓆩𝗫.⃝⃡𝐈‌‌ﮩ٨ـﮩﮩ٨ـ](https://t.me/LEGEND_MUKUND)
+
+
+</details>
+
+<details>
+<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
+<br>
+
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
+- [ꜱᴡᴀʏᴀᴍ](https://t.me/msdian4ver)
+
