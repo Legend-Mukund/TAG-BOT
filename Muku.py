@@ -46,6 +46,20 @@ async def help(event):
       ]
     )
   )
+    
+@client.on(events.NewMessage(pattern="^/repo$"))
+async def help(event):
+  helptext = "**ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇᴘᴏ ᴏꜰ ᴛʜᴇ ᴀʟɪᴇɴ x ᴛᴀɢ ʀᴏʙᴏᴛ ᴊᴏɪɴ  [*•.¸♡ ❥𝐀𝐋𝐈𝚵𝐍™ 𝐗ఌ ♡¸.•*] ɪꜰ ᴜ ʜᴀᴠᴇ ᴀɴʏ Qᴜᴇʀʏ."
+  await event.reply(
+    helptext,
+    link_preview=False,
+    buttons=(
+      [
+        Button.url('𝐑𝚵𝐏𝐎 💥', 'https://github.com/Legend-Mukund/TAG-BOT'),
+        Button.url('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👻', 'https://t.me/ALIEN_X_SUPPORT')
+      ]
+    )
+  )    
   
 @client.on(events.NewMessage(pattern="^/all ?(.*)"))
 async def all(event):
