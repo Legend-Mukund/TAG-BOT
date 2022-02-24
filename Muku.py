@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('🛠 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ⚒', 'https://t.me/ALIEN_X_SUPPORT'),
-        Button.url('⚡️𝐀𝐃𝐃 𝐌𝚵 ⚡️', 'https://t.me/ALIEN_MENTION_ROBOT?startgroup=true'),
+        Button.url('𝐑𝚵𝐏𝐎 💥', 'https://github.com/Legend-Mukund/TAG-BOT'),
         Button.url('🦋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 🦋', 'https://telegra.ph/ALIEN-MENTION-ROBOT-COMMANDS-01-25-2')  
       ]
     )
