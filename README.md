@@ -42,6 +42,9 @@
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛᴀɢ ᴀʟʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/Legend-Mukund/TAG-BOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛᴀɢ ᴀʟʟ ʙᴏᴛ ᴏɴ Railways</h4> 
+<p><a href="https://railway.app/new/template?template=https://github.com/Legend-Mukund/TAG-BOT""><img src="https://railway.app/button.svg" width="200"/></a></p>
+    
 </details>
   
 
